@@ -159,7 +159,7 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*pristine-obsidian-143 · Mis à jour 2026-10-09 · Partagé sous licence MIT*
+*pristine-obsidian-143 · Mis à jour 2026-10-10 · Partagé sous licence MIT*
 
 
 **Related:** [how-to-fan-control-tool-open-source](https://github.com/topics/how-to-fan-control-tool-open-source), [easy-ping-reducer-open-source](https://github.com/topics/easy-ping-reducer-open-source), [quick-lag-reducer-download](https://github.com/topics/quick-lag-reducer-download), [best-task-scheduler-gui-software](https://github.com/topics/best-task-scheduler-gui-software), [pro-registry-cleaner-toolkit](https://github.com/topics/pro-registry-cleaner-toolkit), [quick-gpu-monitor](https://github.com/topics/quick-gpu-monitor), [hardware-monitor-utility](https://github.com/topics/hardware-monitor-utility), [battery-health-checker-download](https://github.com/topics/battery-health-checker-download)
